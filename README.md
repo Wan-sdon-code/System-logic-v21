@@ -12,7 +12,7 @@
 ---
 
 ### 🗺️ Visual Framework
-![System Design of Life Framework](system_design_of_life.png)
+![System Design of Life Framework](SystemLogic.png)
 
 ---
 
