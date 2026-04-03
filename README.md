@@ -18,7 +18,7 @@
 
 ### `LEVEL 1` : Is there a Creator? 🛠️
 Think about your **Phone**. Someone clearly made it. Now look at a **Human**. We are much more complex. No human can "make" another person from zero. When someone dies, we feel sad because we know no one can ever "re-build" that person. Only a **Creator** could design something this complex.
-[attachment_0](attachment)
+
 
 ### `LEVEL 2` : One Creator or many? 🏗️
 Nature moves in **one direction**. The sun, the earth's spin, and the seasons work like a perfect clock. If there were many bosses, they would fight and the system would crash. Logic says one creator is the only way to keep everything working together.
