@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # 🛰️ Project: The System Design of Life (v21.0)
 
 **The Logic:** Life isn't a series of random accidents. It is a fair, purposeful "Operating System" built to help you upgrade your character and find the truth.
@@ -60,10 +62,6 @@ To find the **"Gold Master"** file of truth, look for the system with:
 | **Evil/Suffering** | Life is a **Test**; God doesn't "cheat" the test by stopping it. |
 | **Purpose** | The **GPS (Religion)** shows the road so you don't guess. |
 | **Many Religions** | Humans changed the original rules; look for the original. |
-
----
-
-
 
 ---
 
