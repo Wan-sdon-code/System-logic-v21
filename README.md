@@ -18,7 +18,7 @@ Life isn't a series of random accidents. It is a fair, purposeful "Operating Sys
 
 ---
 
-### 🇸🇬 The "Singapore Simple" Summary
+### The "Singapore Simple" Summary
 > **In short:** Life isn't about being lucky or unlucky (**heng or suay**). It’s a system built to help you level up your heart and find the real **Source Code** of why we are here.
 
 ---
