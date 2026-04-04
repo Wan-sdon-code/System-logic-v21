@@ -4,7 +4,7 @@
 
 ---
 
-[SystemLogic.png](./SystemLogic.png)
+[SystemLogic.png](SystemLogic.png)
 
 ---
 
