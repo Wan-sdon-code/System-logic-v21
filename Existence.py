@@ -1,39 +1,25 @@
 import time
 
-def run_system_check():
-    print("--- TruthOS v21.0: System Design of Life ---")
-    time.sleep(1)
+# 🛰️ Project: The System Design of Life (v21.0)
+# ⚠️ Personal Observation: My own logic. No offense intended.
+# 🤖 Built with the help of Gemini. 
+# 🖼️ SystemLogic.png initialized.
 
-    levels = [
-        ("LEVEL 1", "Creator", "Phone has a maker; Humans are 100x more complex. Soul = Hardware."),
-        ("LEVEL 2", "One Boss", "Nature moves in 1 direction. Many bosses = System crash."),
-        ("LEVEL 3", "The Exam", "The Teacher stays quiet during the exam. Pain is a test."),
-        ("LEVEL 4", "The GPS", "Heart is just a compass. Religion is the GPS map. Don't 'agak agak'."),
-        ("LEVEL 5", "Versions", "One core code, different languages. Race to do good. No 'Force Install'.")
-    ]
+print("🛰️ LifeOS v21.0 | Initializing Source Code Check...\n")
+time.sleep(1)
 
-    for lvl, title, logic in levels:
-        print(f"\n[{lvl}] {title}")
-        print(f">> {logic}")
-        time.sleep(0.5)
+steps = [
+    ("01 Creator", "Complex hardware needs a Designer."),
+    ("02 Visibility", "Hidden Admin = True test of character."),
+    ("03 Unity", "One Boss = Stable System. Multiple = Crash."),
+    ("04 Suffering", "Exam in progress. The Teacher stays quiet."),
+    ("05 GPS", "Religion is the map; your heart is the compass."),
+    ("06 Updates", "Same Core Code, different versions. Race to do good.")
+]
 
-    print("\n" + "="*40)
-    print("FINAL ANALYSIS: Finding the 'Original File'")
-    print("="*40)
-    
-    checks = [
-        "One Creator (No partners)",
-        "One Message, Language & Direction (Unity)",
-        "Zero Edits (Memorized perfectly)",
-        "Science Facts (Proven data)"
-    ]
+for step, desc in steps:
+    print(f"[{step}] {desc}")
+    time.sleep(0.4)
 
-    for check in checks:
-        print(f"[✔] {check}")
-
-    print("\n>>> RESULT: Islam is the 100% Original OS.")
-    print(">>> Status: Matches the Science of the Universe.")
-    print("="*40)
-
-if __name__ == "__main__":
-    run_system_check()
+print("\n📜 CONCLUSION: The Original OS requires Unity, Integrity, and Science.")
+print("> Result: Islam (100% Original Source Code found).")
