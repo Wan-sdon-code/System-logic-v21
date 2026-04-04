@@ -4,6 +4,12 @@
 
 ---
 
+### ⚠️ Personal Observation
+This is my own research and logic. No offense is intended to any individual, path, or organization. 
+**Built with the help of Gemini.**
+
+---
+
 ### 🇸🇬 The "Singapore Simple" Summary
 Life isn't about being lucky or unlucky (**heng or suay**). It is a structured system built to level up your heart and find the "Admin."
 
