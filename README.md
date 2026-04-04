@@ -4,6 +4,10 @@
 
 ---
 
+![System Logic](./SystemLogic.png)
+
+---
+
 ### ⚠️ Personal Observation
 This is my own research and logic. I respect everyone’s individual path and way of thinking.
 
@@ -26,7 +30,7 @@ Nature moves in **one direction**. The sun, the earth's spin, and the seasons wo
 Why doesn't God just fix everything? Because life is a **Test**. If God stopped every bad thing or fixed every problem right away, it wouldn't be a test anymore. Think of a teacher: they stay quiet during the exam so you can show your true character.
 
 ### `LEVEL 4` : What is the point of religion? 🧭
-Your heart is like a **Compass**—it shows you the general direction, but not the actual road. You need a **GPS (Religion)** to see the map and avoid the "cliffs." Without the map, everyone is just guessing (**agak agak**).
+Your heart is like a **Compass**—it shows you the general direction, but not the actual road. You need a **GPS (Religion)** to see the map and avoid the cliffs. Without the map, everyone is just guessing (**agak agak**).
 
 ### `LEVEL 5` : Why are there so many religions? 🌐
 It’s a **System Feature**, not a bug:
@@ -56,9 +60,3 @@ To find the **"Original File"** of truth, look for the system that has:
 | **Sadness** | Life is a **Test**; the "Teacher" stays quiet during the exam. |
 | **Purpose** | The **GPS (Religion)** shows the map so you don't get lost. |
 | **Diversity** | One Core Code, many versions. **Race to do good.** |
-
----
-
-## 🚀 Run the Analysis
-To see this logic as a script, view the file here:
-**[Existence.py](./Existence.py)**
