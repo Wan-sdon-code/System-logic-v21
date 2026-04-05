@@ -1,11 +1,11 @@
-# 🛰️ Project: The System Design of Life (v21.0)
+# 🛰️ Project: The System Design of Life (v25.0)
 
 > **The Logic:** Life is a **Designed Operating System** built to help you find the "Source Code" of truth.
 
 ---
 
 ### ⚠️ Personal Observation
-This is my own research and logic. No offense is intended to any individual, path, or organization. 
+This is my own research and logic. No offense is intended to any individual, path, or organization.  
 **Built with the help of Gemini.**
 
 ---
@@ -18,20 +18,22 @@ This is my own research and logic. No offense is intended to any individual, pat
 | **02** | **Free Will** | The "Admin" stays hidden. If He were visible, you'd act out of fear, not character. |
 | **03** | **One Boss** | Multiple bosses = System crash. One Boss = Universal stability. |
 | **04** | **The Test** | Suffering is an exam. The Teacher stays quiet until the paper is finished. |
-| **05** | **The GPS** | Your heart is a compass; **Religion** is the GPS map that prevents you from just guessing. |
-| **06** | **Updates** | Same "Core Code," different versions for different times. The goal: **Race to do good.** |
+| **05** | **The Manual** | **Why Religion?** You wouldn't use software without a guide. This is the "How-To" for the soul. |
+| **06** | **The Versions** | **Why many?** One Source Code, sent in updates optimized for different times. |
 
 ---
 
 ## 📜 The Conclusion: Finding the "Original OS"
 
-To find the **Original File** of truth, look for the system with:
+To find the **Original File** of truth, look for the system with these **5 Properties**:
 
-* **Absolute Unity:** One Creator only (No partners).
-* **Integrity:** Zero edits; 100% original preservation.
-* **Verification:** Scientific facts that no human knew 1,400 years ago.
+1. **Pure Unity:** One Creator. No partners.
+2. **Zero Edits:** Memorized word-for-word. No changes.
+3. **Total Equality:** No race or class is better. All are equal.
+4. **Direct Line:** No middlemen. Talk to the Creator directly.
+5. **Proven Science:** Facts no human knew 1,400 years ago.
 
-> **System Check:** Based on these logs, **Islam** is the only OS that remains 100% original and aligns with the science of the universe.
+> **System Check:** Based on these logs, **Islam** is the only OS that remains 100% original, treats all humans as equals, allows a direct line to God, and aligns with the science of the universe.
 
 ---
 
