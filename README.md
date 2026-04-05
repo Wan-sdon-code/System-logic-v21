@@ -1,4 +1,4 @@
-# 🛰️ Project: The System Design of Life (v25.0)
+# 🛰️ Project: The System Design of Life (v26.0)
 
 > **The Logic:** Life is a **Designed Operating System** built to help you find the "Source Code" of truth.
 
@@ -15,11 +15,11 @@ This is my own research and logic. No offense is intended to any individual, pat
 | Step | Component | Logic |
 | :--- | :--- | :--- |
 | **01** | **The Creator** | A phone has a designer. A human (complex hardware) needs one too. |
-| **02** | **Free Will** | The "Admin" stays hidden. If He were visible, you'd act out of fear, not character. |
+| **02** | **Free Will** | The "Admin" stays hidden to test character, not fear. |
 | **03** | **One Boss** | Multiple bosses = System crash. One Boss = Universal stability. |
-| **04** | **The Test** | Suffering is an exam. The Teacher stays quiet until the paper is finished. |
+| **04** | **The Test** | Suffering is an exam. The Teacher stays quiet during the test. |
 | **05** | **The Manual** | **Why Religion?** You wouldn't use software without a guide. This is the "How-To" for the soul. |
-| **06** | **The Versions** | **Why many?** One Source Code, sent in updates optimized for different times. |
+| **06** | **The Versions** | **Why many?** The Creator sent many updates for different times. |
 
 ---
 
