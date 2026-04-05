@@ -4,10 +4,6 @@
 
 ---
 
-![systemLogic](./systemLogic.png)
-
----
-
 ### ⚠️ Personal Observation
 This is my own research and logic. No offense is intended to any individual, path, or organization. 
 **Built with the help of Gemini.**
