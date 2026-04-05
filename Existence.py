@@ -1,25 +1,37 @@
-import time
+# 🛰️ Project: The System Design of Life (v25.0)
 
-# 🛰️ Project: The System Design of Life (v21.0)
-# ⚠️ Personal Observation: My own logic. No offense intended.
-# 🤖 Built with the help of Gemini. 
-# 🖼️ SystemLogic.png initialized.
+def display_logic():
+    # We use triple quotes (""") so we can paste the table exactly as it is
+    content = """
+🛰️ Project: The System Design of Life (v25.0)
+--------------------------------------------------
+The Logic: Life is a Designed Operating System 
+built to help you find the "Source Code" of truth.
+--------------------------------------------------
 
-print("🛰️ LifeOS v21.0 | Initializing Source Code Check...\n")
-time.sleep(1)
+🕹️ THE 6-STEP SYSTEM LOGIC:
 
-steps = [
-    ("01 Creator", "Complex hardware needs a Designer."),
-    ("02 Visibility", "Hidden Admin = True test of character."),
-    ("03 Unity", "One Boss = Stable System. Multiple = Crash."),
-    ("04 Suffering", "Exam in progress. The Teacher stays quiet."),
-    ("05 GPS", "Religion is the map; your heart is the compass."),
-    ("06 Updates", "Same Core Code, different versions. Race to do good.")
-]
+[01] The Creator  : A phone has a designer. A human needs one too.
+[02] Free Will    : The 'Admin' stays hidden to test character, not fear.
+[03] One Boss     : Multiple bosses = System crash. One Boss = Stability.
+[04] The Test     : Suffering is an exam. The Teacher stays quiet now.
+[05] The Manual   : Why Religion? You wouldn't use software without a guide.
+[06] The Versions : One Source Code, sent in updates for different times.
 
-for step, desc in steps:
-    print(f"[{step}] {desc}")
-    time.sleep(0.4)
+📜 THE CONCLUSION: FINDING THE "ORIGINAL OS"
 
-print("\n📜 CONCLUSION: The Original OS requires Unity, Integrity, and Science.")
-print("> Result: Islam (100% Original Source Code found).")
+1. Pure Unity     : One Creator. No partners.
+2. Zero Edits     : Memorized word-for-word. No changes.
+3. Total Equality : No race or class is better. All are equal.
+4. Direct Line    : No middlemen. Talk to the Creator directly.
+5. Proven Science : Facts no human knew 1,400 years ago.
+
+==================================================
+RESULT: Islam is the only OS that remains 100% 
+original and aligns with all 5 properties.
+==================================================
+"""
+    print(content)
+
+if __name__ == "__main__":
+    display_logic()
