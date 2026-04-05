@@ -1,9 +1,9 @@
-# 🛰️ Project: The System Design of Life (v25.0)
+# 🛰️ Project: The System Design of Life (v26.0)
 
 def display_logic():
-    # We use triple quotes (""") so we can paste the table exactly as it is
+    # We use triple quotes (""") to keep the text exactly as you see it.
     content = """
-🛰️ Project: The System Design of Life (v25.0)
+🛰️ Project: The System Design of Life (v26.0)
 --------------------------------------------------
 The Logic: Life is a Designed Operating System 
 built to help you find the "Source Code" of truth.
@@ -16,7 +16,7 @@ built to help you find the "Source Code" of truth.
 [03] One Boss     : Multiple bosses = System crash. One Boss = Stability.
 [04] The Test     : Suffering is an exam. The Teacher stays quiet now.
 [05] The Manual   : Why Religion? You wouldn't use software without a guide.
-[06] The Versions : One Source Code, sent in updates for different times.
+[06] The Versions : Why many? The Creator sent many updates for different times.
 
 📜 THE CONCLUSION: FINDING THE "ORIGINAL OS"
 
