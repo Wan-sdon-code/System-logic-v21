@@ -43,6 +43,12 @@ This document is for educational and research purposes only. The "System Design"
 
 ---
 
-**[ SOURCE CODE ]** 🔗 [existence.py](./existence.py)
+### 🐍 Python Version
+You can run this guide as a script in your terminal.
+
+**Raw Script Link:**
+[Download Existence.py (Raw)](Existence.pyy)
+
+---
 
 **[ END SCRIPT ]**
